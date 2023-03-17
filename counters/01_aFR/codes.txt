@@ -1,0 +1,8 @@
+1 - HTML Code (websites/blogs)
+<a href="https://kusokanada.github.io/time-stats/counters/01_aFR/index.html">
+   <iframe width="200" height="200" src="https://kusokanada.github.io/time-stats/widgets/01_aFR/index.html"></iframe>
+</a>
+❌ Don't use counter in YouTube captions.
+
+2 - Counter ID
+01_aFR
